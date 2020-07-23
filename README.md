@@ -2,6 +2,14 @@
 
 With the help of changing the JwtHandler by a service, that allows you to define the openidconfiguration/multiple ones at runtime.
 
+# Installing Nuget 
+
+> Install nuget package to your awesome project.
+
+| Full Version                 | NuGet                                                                                                                                                                                                                                                              |                                          NuGet Install |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -----------------------------------------------------: |
+| PoweredSoft.DynamicJwtBearer     | <a href="https://www.nuget.org/packages/PoweredSoft.DynamicJwtBearer/" target="_blank">[![NuGet](https://img.shields.io/nuget/v/PoweredSoft.DynamicJwtBearer.svg?style=flat-square&label=nuget)](https://www.nuget.org/packages/PoweredSoft.DynamicJwtBearer/)</a>             |     ```PM> Install-Package PoweredSoft.DynamicJwtBearer``` |
+| PoweredSoft.DynamicJwtBearer.DynamicAuthority     | <a href="https://www.nuget.org/packages/PoweredSoft.DynamicJwtBearer.DynamicAuthority/" target="_blank">[![NuGet](https://img.shields.io/nuget/v/PoweredSoft.DynamicJwtBearer.DynamicAuthority.svg?style=flat-square&label=nuget)](https://www.nuget.org/packages/PoweredSoft.DynamicJwtBearer.DynamicAuthority/)</a>             |     ```PM> Install-Package PoweredSoft.DynamicJwtBearer.DynamicAuthority``` |
 
 # How to use
 
